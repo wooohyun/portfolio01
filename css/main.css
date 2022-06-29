@@ -87,10 +87,7 @@ header nav>ul {
     transform: scale();
 }
 
-.section01 .container .main_icon figure {
-    border-left: solid 1px #ddd;
-
-}
+.section01 .container .main_icon figure {}
 
 .section01 .container .main_icon figure:first-child {
     border-left: none;
