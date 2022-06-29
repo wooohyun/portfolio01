@@ -1,3 +1,8 @@
+wrap으로 감싸고 코딩하기
+
+wrap에 max width 1900으로 고정하고
+body에 overflow x축 hidden 이런식으로 다른방식으로해도되고
+
 h1 :html에대한 전체적인타이틀
 h2 : 섹션별 큰덩어리에대한 타이틀
 h3: 더 하위카테고리에 대한 타이틀
