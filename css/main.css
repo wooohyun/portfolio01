@@ -87,7 +87,6 @@ header nav>ul {
     transform: scale();
 }
 
-.section01 .container .main_icon figure {}
 
 .section01 .container .main_icon figure:first-child {
     border-left: none;
@@ -275,9 +274,6 @@ header nav>ul {
     display: flex;
 }
 
-.section04 .inner li:nth-child(1) {
-    display:
-}
 
 .section04 .main_hover .master_tab li:nth-child(1):hover {
     transform: scale(1.2);
