@@ -262,11 +262,12 @@ header nav>ul {
 }
 
 .section04 .textbox {
-    outline: solid 2px #ff0;
+    position: absolute;
     width: 1200px;
     top: 50%;
     left: 50%;
     text-align: right;
+    z-index: 999;
 
 }
 
@@ -277,7 +278,28 @@ header nav>ul {
 
 
 .section04 .main_hover .master_tab li:nth-child(1):hover {
-    transform: scale(1.2);
+    background: rgba(255, 102, 0, 1);
+    ;
+}
+
+.section04 .main_hover .master_tab li:nth-child(2):hover {
+    background: rgba(255, 102, 0, 1);
+    ;
+}
+
+.section04 .main_hover .master_tab li:nth-child(3):hover {
+    background: rgba(255, 102, 0, 1);
+    ;
+}
+
+.section04 .main_hover .master_tab li:nth-child(4):hover {
+    background: rgba(255, 102, 0, 1);
+    ;
+}
+
+.section04 .main_hover .master_tab li:nth-child(5):hover {
+    background: rgba(255, 102, 0, 1);
+    ;
 }
 
 .master_tab {
@@ -288,7 +310,7 @@ header nav>ul {
 .master_tab .tab {
     position: absolute;
     display: flex;
-    top: -150px;
+    top: -100px;
 }
 
 
